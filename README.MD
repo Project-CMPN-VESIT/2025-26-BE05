@@ -1,4 +1,6 @@
-# 💳 Credit Risk Assessment System
+# 💳 CredMill - AI Credit Risk Assessment System
+
+## BE Group 05
 
 A machine learning-powered web application that evaluates the **creditworthiness of loan applicants** by predicting a **Credit Risk Score (300–900)** and **Default Probability**.
 
